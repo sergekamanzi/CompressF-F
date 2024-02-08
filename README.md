@@ -1,5 +1,15 @@
 # CompressF-F
 
+#Introduction
+
+This Python program allows users to compress files and folders into various compressed file types, including .zip, .tar, .tgz. Users can choose the compression format and the program dynamically generates a timestamped filename for .tgz files.
+
+#Features
+Dynamic Filename Generation:
+
+Generates a timestamped filename for .tgz archives to ensure uniqueness.
+Incorporates the current date (year_month_day) in the filename.
+
 #User-Friendly Interface:
 
 Prompts the user to select the folder for compression.
@@ -20,3 +30,4 @@ Displays a success or failure message with appropriate details.
 
  <-Kamanzi Serge>
  <-Leny Pascal Ihirwe>
+ <-Ishimwe Birasa Divine>
