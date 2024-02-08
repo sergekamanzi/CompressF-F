@@ -40,7 +40,7 @@ if __name__ == '__main__':
     for i, f in enumerate(formats):
         print(f"{i}: {f}")
         
-    format_idx = int(input("Enter option number: "))
+    format_idx = int(input("Enter  option number: "))
     format = formats[format_idx]
     
     make_archive(path, format)
