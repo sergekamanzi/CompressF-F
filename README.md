@@ -18,5 +18,5 @@ Displays a success or failure message with appropriate details.
 
 #Contributors
 
-<Kamanzi Serge>
-<Leny Pascal Ihirwe>
+ <-Kamanzi Serge>
+ <-Leny Pascal Ihirwe>
